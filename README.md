@@ -12,9 +12,9 @@
 ## 🗺️ خارطة الطريق (Roadmap)
 - [x] **Project 1: Exploratory Data Analysis (EDA)** - مكتمل
 - [x] **Project 2: Data Quality & Preparation** - مكتمل
-- [ ] **Project 3: Probability & Uncertainty**
-- [ ] **Project 4: Relationships Between Variables**
-- [ ] **Project 5: Statistical Inference**
+- [x] **Project 3: Probability & Uncertainty**
+- [x] **Project 4: Relationships Between Variables**
+- [x] **Project 5: Statistical Inference**
 - [ ] **Project 6: Simulation & Validation**
 - [ ] **Project 7: ML Foundations**
 - [ ] **Project 8: End-to-End Capstone**
